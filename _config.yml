@@ -1,1 +1,6 @@
+title: Blog demo
+collections:
+  posts:
+    output: true
+    permalink: /posts/:path/
 theme: jekyll-theme-architect
