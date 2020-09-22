@@ -1,1 +1,3 @@
-# subpage1-test
+# Blog demo
+
+This is only a test.
